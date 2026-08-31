@@ -58,3 +58,9 @@ Note: The technology badges are lightweight, self-contained visual badges for th
 
 - Updated embedded office map to use a tighter London / Fitzrovia focus
 - Confirmed Solutions page includes AI/ML & Data Science Training as the 9th service card
+
+
+## Contact form update
+
+- Removed the Formspree contact form placeholder.
+- Contact page now uses direct email and WhatsApp call-to-action buttons.

@@ -549,3 +549,15 @@ h3 { font-size: 1.35rem; margin: 0 0 0.8rem; }
   margin: -0.25rem 0 1rem;
   font-size: 0.95rem;
 }
+
+
+.contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.contact-actions .button {
+  min-width: 150px;
+}
