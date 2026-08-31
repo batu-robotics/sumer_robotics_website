@@ -1,6 +1,14 @@
 # Sumer Robotics Ltd. GitHub Pages Website
 
-Static multi-page website for GitHub Pages.
+Updated static multi-page website for GitHub Pages.
+
+## Updated company details
+
+- Address: 4th Floor, Silverstream House 45 Fitzroy Street, Fitzrovia, London, England W1T 6EB
+- Email: sumerrobotics@gmail.com
+- Telephone / WhatsApp: +44 7719 135826
+- Company Number: 13504712
+- Logo: `assets/sumer-robotics-logo.png`
 
 ## Pages
 
@@ -10,19 +18,24 @@ Static multi-page website for GitHub Pages.
 - About: `about.html`
 - Contact: `contact.html`
 
-## Before publishing
+## Deployment
 
-1. Replace WhatsApp placeholder number `447000000000`.
-2. Replace Formspree placeholder `https://formspree.io/f/YOUR_FORM_ID`.
-3. Replace email if needed: `hello@sumerrobotics.co.uk`.
-4. Replace map query in `contact.html` if you want a specific office location.
-5. Keep or update the `CNAME` file depending on your domain setup.
+Copy these files to your repository root and push to the branch used by GitHub Pages.
 
-## GitHub Pages deployment
+```bash
+git add .
+git commit -m "Update company contact details and logo"
+git push
+```
 
-Repository Settings → Pages → Deploy from branch → main → root.
+## GitHub Pages
+
+Repository Settings → Pages → Deploy from branch → select your active branch → `/ root`.
 
 ## Custom domain
 
-Use `sumerrobotics.co.uk` in GitHub Pages custom domain settings.
-Configure DNS in your domain provider.
+The `CNAME` file should contain:
+
+```text
+sumerrobotics.co.uk
+```
