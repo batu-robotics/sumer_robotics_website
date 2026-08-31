@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+<title id="title">AWS technology badge</title><desc id="desc">Stylised AWS text badge for technology stack display.</desc>
+<rect width="320" height="180" rx="34" fill="#111827"/>
+<text x="160" y="92" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#ffffff">AWS</text>
+<path d="M92 118 C126 145, 202 145, 234 116" fill="none" stroke="#ff9900" stroke-width="10" stroke-linecap="round"/>
+<path d="M222 115 L246 111 L236 133" fill="none" stroke="#ff9900" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

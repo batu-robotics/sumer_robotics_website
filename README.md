@@ -39,3 +39,13 @@ The `CNAME` file should contain:
 ```text
 sumerrobotics.co.uk
 ```
+
+
+## Latest content updates
+
+- Added Data Migration as a service area.
+- Added Website Design as a service area.
+- Added technology stack section with AWS, Microsoft Azure and Microsoft Fabric badges.
+- Added lightweight SVG technology badge assets under `assets/`.
+
+Note: The technology badges are lightweight, self-contained visual badges for the website. If you want to use official vendor logos, replace these SVG files with brand-approved assets from the vendor brand resources.

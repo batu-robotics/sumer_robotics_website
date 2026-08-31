@@ -410,6 +410,45 @@ h3 { font-size: 1.35rem; margin: 0 0 0.8rem; }
   filter: saturate(0.8) contrast(1.05);
 }
 
+
+.tech-section {
+  max-width: 1180px;
+}
+
+.tech-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+}
+
+.tech-card {
+  padding: 1.4rem;
+  border: 1px solid var(--border);
+  border-radius: 1.5rem;
+  background: linear-gradient(180deg, var(--panel), rgba(255,255,255,0.045));
+  box-shadow: var(--shadow);
+  transition: transform 0.25s ease, border-color 0.25s ease;
+}
+
+.tech-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(77, 225, 255, 0.35);
+}
+
+.tech-card img {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: auto;
+  margin: 0 0 1.2rem;
+  border-radius: 1rem;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.tech-card p {
+  color: var(--muted);
+}
+
 .whatsapp-floating {
   position: fixed;
   right: 1.5rem;
@@ -495,6 +534,7 @@ h3 { font-size: 1.35rem; margin: 0 0 0.8rem; }
   .contact-layout { grid-template-columns: 1fr; }
   .hero-visual { min-height: 340px; }
   .cards { grid-template-columns: 1fr; }
+  .tech-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 520px) {
