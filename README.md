@@ -49,3 +49,9 @@ sumerrobotics.co.uk
 - Added lightweight SVG technology badge assets under `assets/`.
 
 Note: The technology badges are lightweight, self-contained visual badges for the website. If you want to use official vendor logos, replace these SVG files with brand-approved assets from the vendor brand resources.
+
+
+## Latest updates
+
+- Added AI/ML & Data Science Training as a service area
+- Updated Contact page map to focus on Fitzrovia, London
