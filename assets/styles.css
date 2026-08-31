@@ -542,3 +542,10 @@ h3 { font-size: 1.35rem; margin: 0 0 0.8rem; }
   .button { width: 100%; }
   .dashboard-card { inset: 2rem 0 1rem; }
 }
+
+
+.map-caption {
+  color: var(--muted);
+  margin: -0.25rem 0 1rem;
+  font-size: 0.95rem;
+}

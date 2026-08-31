@@ -55,3 +55,6 @@ Note: The technology badges are lightweight, self-contained visual badges for th
 
 - Added AI/ML & Data Science Training as a service area
 - Updated Contact page map to focus on Fitzrovia, London
+
+- Updated embedded office map to use a tighter London / Fitzrovia focus
+- Confirmed Solutions page includes AI/ML & Data Science Training as the 9th service card
